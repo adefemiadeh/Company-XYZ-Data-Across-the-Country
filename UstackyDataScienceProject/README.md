@@ -32,7 +32,7 @@ I discovered the rate at which consumers buy products and how the entire data co
 
 # Future Work
 
-I would love to include some macjine learning alogorithm to help make predictive and precriptive analysis on this project based o nthe decisions made by the company.
+I would love to include some machine learning algorithm to help make predictive and prescriptive analysis on this project based on the decisions made by the company.
 
 # Standout Section
 
