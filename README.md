@@ -23,6 +23,16 @@ Step 6 - Data Visualization
 Here you would understand the entire process graphically.
 Questions like: Who uses this product more? At what rate is this product used? etc can be easily interpreted here.This would help convince the Board of Directors in either maintaining, scraping or promoting a particular product based on raw facts!
 
+# Standout Section
+I found out the maximum value per unit price.
+
+I visualized the relationship between Product line and Quantity using Gender as hue.
+
+I visualized the relationship between Product line and Unit Price using Gender as hue.
+
+I visualized the Product Line histplot using Payment as hue.
+
+I visualized the Product Line histplot using Branch as hue.
 
 # Insights
 
