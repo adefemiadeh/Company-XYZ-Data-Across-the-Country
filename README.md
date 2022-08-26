@@ -1,4 +1,4 @@
-# Analysis of Company XYZ's Data Across the Country
+# Company XYZ's Data Across the Country
 
 This project was undertaken to understand how customers respond to the product of company XYZ and help the company boost and concentrate production through the thorough business and analytical insights that were discovered.
 
