@@ -44,10 +44,6 @@ I discovered the rate at which consumers buy products and how the entire data co
 
 I would love to include some machine learning algorithm to help make predictive and precriptive analysis on this project based on the decisions made by the company.
 
-# Standout Section
-
-I introduced a few new codes and did other visualizations.
-
 # Executive Summary.
 
 
